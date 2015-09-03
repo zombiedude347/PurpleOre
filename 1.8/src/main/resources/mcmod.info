@@ -1,0 +1,19 @@
+[
+{
+"modid": "purpleore",
+"name": "Purple Ore",
+"description": "Adds Purple Ore and Items crafted using it.",
+"version": "1.2a",
+"credits": "",
+"logoFile": "",
+"mcversion": "1.8",
+"url": "http://minecraft.curseforge.com/mc-mods/224667-purpleore-mod",
+"updateUrl": "",
+"authors": [ "Zombiedude347" ],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+"mod_MinecraftForge"
+]
+}
+]
